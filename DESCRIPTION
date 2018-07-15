@@ -31,6 +31,11 @@ Imports:
     sp,
     rgdal,
     raster,
-    png
+    png,
+    sf,
+    lattice,
+    htmlwidgets,
+    htmltools,
+    leaflet
 VignetteBuilder: knitr
 RoxygenNote: 6.0.1
